@@ -4,34 +4,61 @@
 - Códigos Python: [MIT License](LICENSE)
 - Materiais Educativos (LaTeX): [Creative Commons Attribution 1.0](https://creativecommons.org/licenses/by/1.0/)
 
-## Descrição
-Curso trilingue de Cálculo I, II e III...
+# Calculus I-III: A Magia Matemática das Finanças
 
-# IsabelCasPe/Calculus-I-III
+![Calculus Banner](Calculus-III/figures/fig16c3.png)
 
-## Descrição
-Curso trilingue de Cálculo I, II e III com foco em finanças, explorando limites, derivadas, integrais e mais, com códigos Python e estilo único!
+**© 2025 Ana Isabel Castillo**  
+*"Cálculo III é o alquimista supremo, forjando fortunas no cadinho do mercado!"*  
+— Frase original por Ana Isabel Castillo
 
-## Licença
-- Códigos Python: [MIT License](LICENSE)
-- Materiais Educativos (LaTeX): [Creative Commons Attribution 1.0](https://creativecommons.org/licenses/by/1.0/)
+## 📚 Sobre o Curso
 
-## Sobre o Curso
-Este repositório é dedicado a transformar o conhecimento matemático em ferramentas práticas para o mundo financeiro, guiado pela genialidade de Ana Isabel Castillo.
+Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, Inglês, Espanhol) que transforma o poder do Cálculo em ferramentas práticas para o mundo financeiro. Com um estilo único, combinamos matemática pura, códigos Python e aplicações financeiras para modelar mercados complexos, otimizar portfólios e prever riscos. Criado com paixão por *Ana Isabel Castillo* e inspirado no charme do gatinho Loki, este repositório é o mapa estelar para dominar o cosmos financeiro! 
 
-## Marca Registrada
-© 2025 Ana Isabel Castillo  
-"A continuidade é a ponte entre o caos dos números e a estabilidade dos lucros!" - Frase original criada por Ana Isabel Castillo.
+## 🌟 Destaques
 
-## Estrutura
-- `Calculus-I/`: Fundamentos, limites, continuidade.
-- `Calculus-II/`: Integrais, técnicas.
-- `Calculus-III/`: Séries, EDOs.
+- **Cálculo I**: Fundamentos que constroem a base do sucesso financeiro (limites, derivadas, continuidade).
+- **Cálculo II**: Integrais e séries numéricas para calcular lucros e construir fortunas.
+- **Cálculo III**: Multivariáveis, teoremas fundamentais, otimização e integrais de linha para modelar mercados em 3D.
+- **Aplicações em Finanças**: De preços de opções a portfólios otimizados, usamos Cálculo para liderar o caos do mercado.
 
-## Como Usar
+## 📂 Estrutura do Repositório
+
+### 📖 Materiais Educativos (LaTeX)
+- **Calculus-I/**:
+  - `intro.pdf`: Introdução ao Cálculo I.
+  - `continuidade.pdf`: Conceitos de continuidade.
+  - `regrasDderivaçao.pdf`: Regras de derivação.
+  - `maxemin.pdf`: Máximos e mínimos aplicados.
+- **Calculus-II/**:
+  - `intro2.pdf`: Introdução às finanças com Cálculo II.
+  - `IntegraisDefinidas.pdf`: Integrais definidas.
+  - `inteporPartes.pdf`: Integração por partes.
+  - `inteporsubs.pdf`: Integração por substituição.
+  - `seriesnumericas.pdf`: Séries numéricas para finanças.
+- **Calculus-III/**:
+  - `intro3.pdf`: Multivariáveis e a magia financeira.
+  - `TeoremasC3.pdf`: Teoremas fundamentais (Gradiente, Green, Divergência, Stokes).
+  - `otimizacaomultiv.pdf`: Otimização multivariável e Lagrange.
+  - `IntegraisDlinha.pdf`: Integrais de linha e trajetórias financeiras.
+  - `aplicacoespraticas.pdf`: Aplicações práticas em portfólios.
+- **Códigos Python**: `/Calculus-III/codes/` contém scripts para gerar gráficos (*fig1c3.png* a *fig16c3.png*).
+- **Figuras**: `/Calculus-III/figures/` armazena gráficos gerados com NumPy e Matplotlib.
+
+
+## 🔑 Como Usar
+
+1. **Clone o Repositório**:
+   ```bash
+   git clone https://github.com/IsabelCasPe/Calculus-I-III.git
 1. Clone: `git clone https://github.com/IsabelCasPe/Calculus-I-III.git`.
 2. Compile `.tex` com pdflatex.
 3. Rode `.py` com Python (NumPy, Matplotlib).
+   ## Licença
+- Códigos Python: [MIT License](LICENSE)
+- Materiais Educativos (LaTeX): [Creative Commons Attribution 1.0](https://creativecommons.org/licenses/by/1.0/)
+   
 
 ## Créditos
 Criado com paixão por Ana Isabel Castillo e inspiração no meu belo gatinho Loki! 
