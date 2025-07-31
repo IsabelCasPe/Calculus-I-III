@@ -49,13 +49,19 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 - [Aplicações Práticas](./aplicacoespraticas.pdf)
 - Materiais Educativos (LaTeX): [Creative Commons Attribution 1.0](https://creativecommons.org/licenses/by/1.0/)
 
-![Calculus Banner](Calculus-III/figures/fig16c3.png)
+##📊 [Calculus Banner](Calculus-III/figures/fig16c3.png)
 ---
 ##  Como Usar
 ### 📖 Materiais Educativos (LaTeX)
 
 - **Códigos Python**: `/Calculus-III/codes/` contém scripts para gerar gráficos ([fig1c3.png](Calculus-III/figures/fig1c3.png) a [fig16c3.png](Calculus-III/figures/fig16c3.png)).
 - **Figuras**: `/Calculus-III/figures/` armazena gráficos gerados com NumPy e Matplotlib.
+## 📚 Referências Bibliográficas
+
+- Stewart, J. (2015). *Cálculo: Volume 1-2*. Cengage Learning.
+- Föllmer, H. & Schied, A. (2016). *Stochastic Finance: An Introduction in Discrete Time*. Walter de Gruyter.
+- Simon, C. P., & Blume, L. (1994). *Mathematics for Economists*. W. W. Norton & Company.
+
 ## Licença
 - Códigos Python: [MIT License](LICENSE)
 - Materiais Educativos (LaTeX): [Creative Commons Attribution 1.0](https://creativecommons.org/licenses/by/1.0/)
