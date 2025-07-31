@@ -38,14 +38,13 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
   - `inteporsubs.pdf`: Integração por substituição.
   - `seriesnumericas.pdf`: Séries numéricas para finanças.
 - **Calculus-III/**:
-  - `intro3.pdf`: Multivariáveis e a magia financeira.
-  - `TeoremasC3.pdf`: Teoremas fundamentais (Gradiente, Green, Divergência, Stokes).
-  - `otimizacaomultiv.pdf`: Otimização multivariável e Lagrange.
-  - `IntegraisDlinha.pdf`: Integrais de linha e trajetórias financeiras.
-  - `aplicacoespraticas.pdf`: Aplicações práticas em portfólios.
-- **Códigos Python**: `/Calculus-III/codes/` contém scripts para gerar gráficos (*fig1c3.png* a *fig16c3.png*).
+  - [**Introdução ao Cálculo III**] [intro3.pdf](Calculus-III/intro3.pdf): Multivariáveis e a magia financeira.
+  - [**Teoremas Fundamentais**] [TeoremasC3.pdf](Calculus-III/TeoremasC3.pdf): Gradiente, Green, Divergência, Stokes.
+  - [**Otimização Multivariável**] [otimizacaomultiv.pdf](Calculus-III/otimizacaomultiv.pdf): Maximização de retornos com Lagrange.
+  - [**Integrais de Linha**] [IntegraisDlinha.pdf](Calculus-III/IntegraisDlinha.pdf): Trajetórias financeiras.
+  - [**Aplicações Práticas**] [aplicacoespraticas.pdf](Calculus-III/aplicacoespraticas.pdf): Portfólios em 3D.
+- **Códigos Python**: `/Calculus-III/codes/` contém scripts para gerar gráficos ([fig1c3.png](Calculus-III/figures/fig1c3.png) a [fig16c3.png](Calculus-III/figures/fig16c3.png)).
 - **Figuras**: `/Calculus-III/figures/` armazena gráficos gerados com NumPy e Matplotlib.
-
 
 ## 🔑 Como Usar
 
