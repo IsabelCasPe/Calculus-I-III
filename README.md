@@ -48,6 +48,7 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 - [Integrais de Linha](./IntegraisDlinha.pdf)
 - [Aplicações Práticas](./aplicacoespraticas.pdf)
 - Materiais Educativos (LaTeX): [Creative Commons Attribution 1.0](https://creativecommons.org/licenses/by/1.0/)
+- [Solução da Equation Black-Scholes com o Loki](./equationBlackScholes.pdf)
 
 ##📊 [Calculus Banner](Calculus-III/figures/fig16c3.png)
 ---
