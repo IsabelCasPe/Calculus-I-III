@@ -5,9 +5,6 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 ## Licença
 - Códigos Python: [MIT License](LICENSE)
 
-**© 2025 Ana Isabel Castillo**  
-*"Cálculo III é o alquimista supremo, forjando fortunas no cadinho do mercado!"*  
-— Frase original por Ana Isabel Castillo
 
 ## 📚 Sobre o Curso
 
@@ -68,7 +65,12 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 - Materiais Educativos (LaTeX): [Creative Commons Attribution 1.0](https://creativecommons.org/licenses/by/1.0/)
  ## Créditos
 Criado com paixão por Ana Isabel Castillo.    
-
+---
+## Inspiration.
+> "Das curvas do limite ao infinito das integrais, o Cálculo desvendando o ritmo do cosmos — onde cada derivada revela sua genialidade." ♾️ 📈 ∫ ∑
+>  *"Cálculo III é o alquimista supremo, forjando fortunas no cadinho do mercado!"*  
+>  Copyright © 2025 Prof. Ana Isabel C. 💙
+---
 ```bash
 git clone https://github.com/IsabelCasPe/Calculus-I-III.git
 Rode `.py` com Python (NumPy, Matplotlib).
