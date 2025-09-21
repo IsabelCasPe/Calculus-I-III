@@ -67,8 +67,11 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 Criado com paixão por Ana Isabel Castillo.    
 ---
 ## Inspiration.
-> "Das curvas do limite ao infinito das integrais, o Cálculo desvendando o ritmo do cosmos — onde cada derivada revela sua genialidade." ♾️ 📈 ∫ ∑
->  *"Cálculo III é o alquimista supremo, forjando fortunas no cadinho do mercado!"*  
+
+> "Das curvas do limite ao infinito das integrais, o Cálculo desvendando o ritmo do cosmos @Cálculo  onde cada derivada revela sua genialidade." ♾️ 📈 ∫ ∑
+
+>  *"Cálculo III é o alquimista supremo, forjando fortunas no cadinho do mercado!"*
+
 >  Copyright © 2025 Prof. Ana Isabel C. 💙
 ---
 ```bash
