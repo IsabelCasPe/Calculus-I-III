@@ -42,6 +42,10 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 ### 📉 Derivada
 ![Derivada](derivative_animation.gif)
 
+### 🔗 Continuidade (em x=0)
+*De descontínua → contínua: os limites laterais \(L^-\) e \(L^+\) e o valor \(f(0)\) convergem até coincidirem.*
+![Continuidade em x=0](continuity_animation.gif)
+
 ### ∫ Integral Indefinida
 ![Integral Indefinida](indefinite_integral.gif)
 
@@ -50,7 +54,7 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 
 ### 🏔️ Superfície de Sela (Dinâmica)
 *Geometria hiperbólica com deformação temporal e rotação.*
-![Sela Dinâmica](saddle_surface_dynamic.gif)
+![Sela Dinâmica](saddle_surface_dynamic_vectors.gif)
 
 ---
 
