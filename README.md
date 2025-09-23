@@ -19,21 +19,40 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 ---
 ## Visualizações Matemáticas
 
-### 📉 Derivada
-![Derivada](derivative_animation.gif)
-
-### ∫ Integral Definida
-![Integral Definida](definite_integral.gif)
-
-### ∫ Integral Indefinida
-![Integral Indefinida](indefinite_integral.gif)
+### 📈 Crescimento Quadrático
+*Curvatura positiva e aceleração do crescimento.*
+![Crescimento Quadrático](quadratic_growth.gif)
 
 ### 📈 Crescimento Exponencial
 ![Exponencial](exponential_growth.gif)
 
+### 🔄 Oscilação Senoidal
+*Dinâmica periódica: amplitude, frequência e fase.*
+![Oscilação Senoidal](sine_oscillation.gif)
+
 ### 🌀 Dinâmica Hiperbólica
 ![Função Hiperbólica](hyperbolic_dynamics.gif)
 
+## Visualizações Adicionais
+
+### ♾️ Limite
+*Conceito de aproximação e tendência.*
+![Limite](limit_animation.gif)
+
+### 📉 Derivada
+![Derivada](derivative_animation.gif)
+
+### ∫ Integral Indefinida
+![Integral Indefinida](indefinite_integral.gif)
+
+### ∫ Integral Definida
+![Integral Definida](definite_integral.gif)
+
+### 🏔️ Superfície de Sela (Dinâmica)
+*Geometria hiperbólica com deformação temporal e rotação.*
+![Sela Dinâmica](saddle_surface_dynamic.gif)
+
+---
 
 ## 📘 Calculus I – Fundamentos
 
