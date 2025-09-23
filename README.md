@@ -1,4 +1,15 @@
-# Repositório CALCULUS
+<!-- HERO -->
+# Arte & Ciência em Movimento — Matemática Viva 💎🧮✨
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+## Repositório CALCULUS
 # 📊 Calculus I-III: A Magia Matemática das Finanças : Criado por Ana Isabel Castillo, este repositório oferece uma abordagem moderna, visual e aplicada ao Cálculo, com foco especial em aplicações financeiras.
 
 Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, Inglês, Espanhol) que transforma o poder do Cálculo em ferramentas práticas para o mundo financeiro. Com um estilo único, combinamos matemática pura, códigos Python e aplicações financeiras para modelar mercados complexos, otimizar portfólios e prever riscos. Criado com paixão por *Ana Isabel Castillo* e inspirado no charme do meu Belo gatinho Loki, este repositório é o mapa estelar para dominar o cosmos financeiro! 
