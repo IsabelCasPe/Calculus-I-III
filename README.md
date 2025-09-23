@@ -17,6 +17,23 @@ Bem-vindo ao repositório **Calculus I-III**, um curso trilíngue (Português, I
 
 ## 📂 Estrutura do Repositório
 ---
+## Visualizações Matemáticas
+
+### 📉 Derivada
+![Derivada](derivative_animation.gif)
+
+### ∫ Integral Definida
+![Integral Definida](definite_integral.gif)
+
+### ∫ Integral Indefinida
+![Integral Indefinida](indefinite_integral.gif)
+
+### 📈 Crescimento Exponencial
+![Exponencial](exponential_growth.gif)
+
+### 🌀 Dinâmica Hiperbólica
+![Função Hiperbólica](hyperbolic_dynamics.gif)
+
 
 ## 📘 Calculus I – Fundamentos
 
